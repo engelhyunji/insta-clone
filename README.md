@@ -4,3 +4,8 @@
   <img src=https://github.com/engelhyunji/insta-clone/assets/145903783/9884d728-c104-4a10-807f-acd2bd89728a)>
 
 </p>
+
+<p>
+  <img src=https://github.com/engelhyunji/insta-clone/assets/145903783/d4385e02-3030-483d-9e1d-b1407b04f855)>
+
+</p>
