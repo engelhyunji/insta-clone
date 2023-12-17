@@ -1,5 +1,5 @@
 <p>frontend backend 협업 클론 코딩</p>
-<p>담당: 로그인, 로그아웃, 회원가입 기능 구현 및 마이페이지(내가 작성한 글 피드 목록)</p>
+<p>담당: 로그인(accestoken), 로그아웃, 회원가입 기능 구현 및 마이페이지(내가 작성한 글 피드 목록)</p>
 <p>front code</p>
 <p>
   <img src=https://github.com/engelhyunji/insta-clone/assets/145903783/9884d728-c104-4a10-807f-acd2bd89728a)>
